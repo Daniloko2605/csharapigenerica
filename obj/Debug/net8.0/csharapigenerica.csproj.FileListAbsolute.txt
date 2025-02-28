@@ -31,3 +31,4 @@ D:\TODO ESTUDIO\Aplicaciones y servicios web\csharapigenerica\obj\Debug\net8.0\r
 D:\TODO ESTUDIO\Aplicaciones y servicios web\csharapigenerica\obj\Debug\net8.0\csharapigenerica.pdb
 D:\TODO ESTUDIO\Aplicaciones y servicios web\csharapigenerica\obj\Debug\net8.0\csharapigenerica.genruntimeconfig.cache
 D:\TODO ESTUDIO\Aplicaciones y servicios web\csharapigenerica\obj\Debug\net8.0\ref\csharapigenerica.dll
+D:\TODO ESTUDIO\Aplicaciones y servicios web\csharapigenerica\obj\Debug\net8.0\csharapigenerica.sourcelink.json
